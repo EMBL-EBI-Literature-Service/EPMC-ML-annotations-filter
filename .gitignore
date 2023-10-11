@@ -8,6 +8,7 @@ __pycache__/
 
 # Shell extensions
 *.sh
+*.onnx
 
 # large_files
 *.txt
